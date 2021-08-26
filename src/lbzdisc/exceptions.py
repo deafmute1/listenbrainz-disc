@@ -1,0 +1,2 @@
+class MissingCriticalEnvironmentalVariable(Exception): 
+    pass

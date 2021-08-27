@@ -6,7 +6,9 @@ chardet==4.0.0
 charset-normalizer==2.0.4
 discord.py==1.7.3
 idna==3.2
+git+https://github.com/deafmute1/listenbrainz-disc.git@fdea03c34531f8cac5f9d84655328ca0fc2a5255#egg=listenbrainz_disc
 multidict==5.1.0
+musicbrainzngs==0.7.1
 pylistenbrainz==0.4.0
 python-dotenv==0.19.0
 requests==2.26.0

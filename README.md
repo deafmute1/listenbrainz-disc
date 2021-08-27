@@ -5,7 +5,7 @@ listenbrainz-disc (lbz) is a discord bot for accesing your listenbrainz scobbles
 This software is licensed under the terms defined in the file LICENSE.
 
 ## Public instance
-I host a public instance on my home server. You can invite it at: 
+I host a public instance on my home server. You can invite it at: [https://discord.com/api/oauth2/authorize?client_id=880453890422751304&permissions=34359756800&scope=bot](https://discord.com/api/oauth2/authorize?client_id=880453890422751304&permissions=34359756800&scope=bot)
 
 ## Data storage 
 This application can store the following data on disk: 
